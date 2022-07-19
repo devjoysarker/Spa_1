@@ -1,0 +1,31 @@
+{
+"deves" : [
+    {
+    "id"            : 1,
+    "name"          : "Jui Akter",
+    "username"      : "juiakter",
+    "email"         : "joysarker2927@gmail.com",
+    "Call"          : "01305851156",
+    "Skill"         : "MERN Stack ",
+    "photo"         : "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGVhbSUyMG1lbWJlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "fb"            : "#",
+    "tw"            : "#",
+    "lin"           : "#",
+    "ins"           : "#"
+},
+    {
+    "id"            : 2,
+    "name"          : "Alom Mia",
+    "username"      : "alom",
+    "email"         : "alom@gmail.com",
+    "Call"          : "01750336499",
+    "Skill"         : "Payton Stack ",
+    "photo"         : "https://rnbtheme.com/shortcodes/wp-content/uploads/2016/01/First_m-500x622.png",
+    "fb"            : "#",
+    "tw"            : "#",
+    "lin"           : "#",
+    "ins"           : "#"
+}
+]
+
+}

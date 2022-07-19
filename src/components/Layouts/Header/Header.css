@@ -1,0 +1,22 @@
+
+.header{
+    background-color: #fff;
+}
+.logo a img{
+    width: 200px;
+}
+.manu ul {
+    text-align: center;
+    margin-top: 15px;
+
+}
+.manu ul li {
+    display: inline-block;
+}
+.manu ul li a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding: 7px 9px;
+    text-transform: uppercase;
+}
